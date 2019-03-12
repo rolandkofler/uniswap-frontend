@@ -14,7 +14,7 @@
   "estimated": "geschätzt",
   "balance": "Guthaben: {{ balanceInput }}",
   "unlock": "Freischalten",
-  "pending": "hängige",
+  "pending": "noch anstehend",
   "selectToken": "Token auswählen",
   "searchOrPaste": "Token suchen oder Token Adresse einfügen",
   "noExchange": "Exchange nicht gefunden",
